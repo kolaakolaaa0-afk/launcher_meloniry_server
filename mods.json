@@ -13,6 +13,8 @@
       "isProjectMod": true,
       "isNew": false,
       "isVerified": false,
+      "category": "graphics",
+      "dependencies": [],
       "authors": ["Автор не указан в репозитории"],
       "authorLinks": [],
       "source": "launcher_meloniry_server",
