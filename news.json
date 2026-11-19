@@ -6,5 +6,21 @@
     "imageUrl": "https://example.com/news-image.jpg",
     "videoUrl": "",
     "url": "https://example.com/news"
+  },
+  {
+    "title": "Заголовок новости",
+    "date": "2026-11-19",
+    "description": "Краткое описание новости.",
+    "imageUrl": "https://example.com/news-image.jpg",
+    "videoUrl": "",
+    "url": "https://example.com/news"
+  },
+  {
+    "title": "Заголовок новости",
+    "date": "2026-11-19",
+    "description": "Краткое описание новости.",
+    "imageUrl": "https://example.com/news-image.jpg",
+    "videoUrl": "",
+    "url": "https://example.com/news"
   }
 ]
