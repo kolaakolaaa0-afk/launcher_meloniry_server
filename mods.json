@@ -1,10 +1,13 @@
-
 {
   "mods": [
     {
       "id": "enb-files",
       "name": "ENB Files",
-      "authors": ["Автор не указан в репозитории"],
+      "description": "Набор файлов ENB для улучшения графики GTA San Andreas. Модификация сохраняется в папке Mods выбранной версии игры.",
+      "authors": [
+        "Автор не указан в репозитории"
+      ],
+      "authorLinks": [],
       "source": "launcher_meloniry_server",
       "sourceUrl": "https://github.com/kolaakolaaa0-afk/launcher_meloniry_server/blob/main/enb_files.zip",
       "sizeBytes": 7789410,
