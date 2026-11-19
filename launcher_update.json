@@ -1,8 +1,8 @@
 {
-  "new": 0,
-  "version": "0.8.8",
-  "downloadUrl": "",
-  "sha256": "",
-  "logViewerDownloadUrl": "",
-  "logViewerSha256": ""
+  "new": 1,
+  "version": "0.8.9",
+  "downloadUrl": "https://github.com/kolaakolaaa0-afk/launcher_meloniry_server/releases/download/0.8.5/melonity.exe",
+  "sha256": "36BF460E95FD9634A1133509C690CCFB6F9D5D8F5F61A7F3FA6931A65B7AA1BE",
+  "logViewerDownloadUrl": "https://github.com/kolaakolaaa0-afk/launcher_meloniry_server/releases/download/8.8.8.1/LauncherLogViewer.exe",
+  "logViewerSha256": "C7B3456B9823B4A2FBF66C3FAA65AB1A84DE5BA888254E89E51A57D2A6DCC865"
 }
