@@ -1,0 +1,15 @@
+
+{
+  "mods": [
+    {
+      "id": "enb-files",
+      "name": "ENB Files",
+      "authors": ["Автор не указан в репозитории"],
+      "source": "launcher_meloniry_server",
+      "sourceUrl": "https://github.com/kolaakolaaa0-afk/launcher_meloniry_server/blob/main/enb_files.zip",
+      "sizeBytes": 7789410,
+      "downloadUrl": "https://raw.githubusercontent.com/kolaakolaaa0-afk/launcher_meloniry_server/main/enb_files.zip",
+      "imageUrls": []
+    }
+  ]
+}
